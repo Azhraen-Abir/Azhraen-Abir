@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋 I'm Azhraen-Abir
 
-<!--
-**Azhraen-Abir/Azhraen-Abir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Full-Stack Developer focused on building modern web applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real-world products, solving problems with code, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Live Project
+
+### 🔥 MERN Web Application  
+🔗 **Live App:** https://mern-frontend-prod-9aab5.web.app  
+
+> A full-stack web application with authentication, dynamic UI, and real-time data handling.  
+> Backend services are secured and not publicly exposed.
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛ React.js  
+- 🟢 Node.js  
+- 🚂 Express.js  
+- 🍃 MongoDB  
+- 🔐 JWT Authentication  
+- ☁ Deployment (Render)
+
+---
+
+## 🎯 What I'm Working On
+
+- Improving UI/UX design  
+- Building scalable backend systems  
+- Learning advanced system architecture  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Azhran-Abir  
+
+---
+
+⭐ Thanks for visiting my profile!
+
