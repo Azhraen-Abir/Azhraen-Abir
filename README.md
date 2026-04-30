@@ -16,6 +16,13 @@ I enjoy turning ideas into real-world products, solving problems with code, and 
 
 ---
 
+## 🤖 Discord Bot Project
+
+### ⚡ Custom Discord Bot  
+🔗 **GitHub Repo:** https://github.com/Azhraen-Abir/YOUR-BOT-REPO-NAME 
+
+---
+
 ## 🛠 Tech Stack
 
 - ⚛ React.js  
